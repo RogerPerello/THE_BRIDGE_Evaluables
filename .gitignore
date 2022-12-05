@@ -4,5 +4,17 @@ Murder_game/Ejercicio SQL Murder.pdf
 
 # Ejercicio SQL island
 SQL_island/sql_game_link.txt
+
+# SQL Challenges
 sql challenges/merdados_.csv
 sql challenges/2021_padro.csv
+sql challenges/semiestructurado.PNG
+sql challenges/desestructurado.PNG
+sql challenges/estructurado.PNG
+sql challenges/consulados.json
+sql challenges/altas_hospitalarias.json
+.gitignore
+sql challenges/xarxa_refugis_climatics_bna.json
+sql challenges/consulados.csv
+sql challenges/breaches.csv
+sql challenges/salaries.csv
